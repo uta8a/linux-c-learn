@@ -6,4 +6,3 @@
 vagrant@vagrant:~/linux-c-learn$ uname  -r
 4.18.16-041816-generic
 ```
-
