@@ -1,0 +1,4 @@
+&argc = 0x7ffe791e04cc
+&argv = 0x7ffe791e04c0
+&p    = 0x7ffe791e04e0
+&top  = 0x7ffe791e04dc
